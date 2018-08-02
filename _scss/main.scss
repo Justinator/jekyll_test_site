@@ -1,3 +1,7 @@
 @import "_normalize";
 @import "_header";
 @import "_variables";
+
+.site-title{
+  color: $primaryColor;
+}
