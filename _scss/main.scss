@@ -3,9 +3,9 @@
 @import "_variables";
 
 .site-title{
-  color: $primaryColor;
+  color: $primaryColor !important;
 }
 
 .site-header{
-  border-top: 5px solid $primaryColor;
+  border-top: 5px solid $primaryColor !important;
 }
