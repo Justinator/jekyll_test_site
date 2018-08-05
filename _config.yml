@@ -17,7 +17,7 @@ title: A Simple Jekyll Test Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Awesome site description! I remember my first website bro
-baseurl: "https://justinator.github.io/jekyll_test_site/" # the subpath of your site, e.g. /blog
+baseurl: "jekyll_test_site/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
