@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,WAAW;EACT,KAAK,EAAE,kBAAwB;;AAGjC,YAAY;EACV,UAAU,EAAE,4BAAkC;;AAEhD,UAAU;EACR,KAAK,EAAE,kBAAwB;;ACRjC,IAAI;EACJ,UAAU,EAAE,OAAO;;ACKnB,UAAU;EACR,KAAK,EAAE,kBAAwB",
-"sources": ["_header.scss","_homepage.scss","main.scss"],
+"mappings": "AAAA,UAAU;EACR,KAAK,EAAE,kBAAkB",
+"sources": ["main.scss"],
 "names": [],
 "file": "main.css"
 }
