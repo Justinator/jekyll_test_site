@@ -4,6 +4,9 @@
 .site-header {
   border-top: 5px solid #191032 !important; }
 
+.siteTitle {
+  color: #191032 !important; }
+
 main {
   background: #e8e8e8; }
 
