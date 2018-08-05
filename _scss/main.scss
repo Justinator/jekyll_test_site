@@ -3,3 +3,7 @@
 //Import all other style sheets for our site
 @import "_header";
 @import "_homepage";
+
+.siteTitle{
+  color: $primaryColor !important;
+}
