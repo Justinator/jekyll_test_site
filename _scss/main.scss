@@ -1,3 +1,5 @@
-.siteTitle{
-  color: #191032 !important;
-}
+@import "_variables";
+
+@import "_header";
+@import "_homepage";
+@import "_normalize";
